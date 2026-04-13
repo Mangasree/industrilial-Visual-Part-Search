@@ -1,4 +1,4 @@
-﻿# Industrility Visual Part Search Prototype
+﻿# Industrilial Visual Part Search Prototype
 
 ## Project Overview
 Industrility Visual Part Search Prototype is an end-to-end visual retrieval system for industrial parts. It allows a user to upload a part image (for example, a hook or valve photo), computes an image embedding, searches a vector index, and returns the closest CAD snapshot matches with confidence scores.
